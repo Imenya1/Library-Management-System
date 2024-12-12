@@ -1,2 +1,1 @@
-# Library-Management-System
-library management system 
+The library management system incorporate has register and login for both admin and member. For Admin page, it has Add book, remove book, borroe book, return book, search book for the a admin while the member page has borrow book, return book and search book. The information on books, user, and transactions are stored in a database.
